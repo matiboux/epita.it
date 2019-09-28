@@ -7,3 +7,4 @@ lang: en
 
 # Jekyll confiuration
 exclude: [CNAME]
+permalink: /blog/:year/:month/:day/:title/
