@@ -45,6 +45,20 @@ a:hover { color: #4080c0 }
 	text-align: initial;
 }
 
+#main .list-group .list-group-item {
+	background-color: #285078;
+}
+#main .list-group .list-group-item {
+	color: #f0f0f0;
+}
+#main .list-group .list-group-item:hover,
+#main .list-group .list-group-item:focus {
+	background-color: #24486c;
+}
+#main .list-group .list-group-item:active {
+	background-color: #204060;
+}
+
 #footer {
 	background: rgba(0, 0, 0, .1);
 	padding: 20px;
