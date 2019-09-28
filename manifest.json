@@ -3,22 +3,22 @@
 	"name": "EPITA.it",
 	"icons": [
 		{
-			"src": "/assets/icon-48.png",
+			"src": "/epita.it/assets/icon-48.png",
 			"type": "image/png",
 			"sizes": "48x48"
 		},
 		{
-			"src": "/assets/icon-192.png",
+			"src": "/epita.it/assets/icon-192.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "/assets/icon-512.png",
+			"src": "/epita.it/assets/icon-512.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "/?utm_source=pwa",
+	"start_url": "/epita.it/?utm_source=pwa",
 	"background_color": "#183048",
 	"display": "standalone",
 	"theme_color": "#183048"
