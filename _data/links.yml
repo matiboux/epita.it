@@ -154,6 +154,15 @@
     - 'background-image: url(https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/23/f4/a423f466-ad1d-7071-9b75-0079f744a72a/source/70x70bb.jpg)'
     - 'background-position-x: left'
     
+- name: Absences
+  href: https://absences.epita.net/
+  class: tile-medium text-dark
+  style:
+  - 'background-color: #fff'
+  - 'background-image: url(https://absences.epita.net/assets/img/absences-logo.png)'
+  - 'background-size: 90%'
+  - 'background-position-y: top'
+    
 - class: tile-medium
   items:
   - name: Projet Voltaire
